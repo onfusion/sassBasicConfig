@@ -1,4 +1,4 @@
-# Basic Pug Config to Generate HTML Template
+# Basic SASS/SCSS Configuration
 
 SASS basic config package to compile custom SASS and Bootstrap source code. All config are as follow;
 
