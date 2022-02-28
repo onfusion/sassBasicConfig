@@ -19,6 +19,12 @@ npm init
 npm update
 ```
 
+#### Basic npm commands for SASS code compilatoin.
+```
+npm run sass-dev
+npm run sass-prod
+```
+
 #### Some basic Git commands are:
 
 ```
